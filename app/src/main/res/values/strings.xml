@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiMan</string>
+    <string name="app_subtitle">Micro Industry Management</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_barang">Barang</string>
+    <string name="nav_transaksi">Transaksi</string>
+    <string name="nav_profil">Profil</string>
+    
+    <!-- Login & Register -->
+    <string name="login_title">Masuk</string>
+    <string name="login_subtitle">Selamat datang kembali!</string>
+    <string name="register_title">Daftar</string>
+    <string name="register_subtitle">Buat akun baru</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_phone">No. HP</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="btn_register_link">Belum punya akun? Daftar</string>
+    <string name="btn_login_link">Sudah punya akun? Masuk</string>
+    
+    <!-- Dashboard -->
+    <string name="greeting">Selamat Datang,</string>
+    <string name="total_jenis_barang">Total Jenis Barang</string>
+    <string name="total_stok">Total Stok</string>
+    <string name="barang_hampir_habis">Barang Hampir Habis</string>
+    <string name="mendekati_expired">Mendekati Expired</string>
+    
+    <!-- Menu -->
+    <string name="menu_manajemen_barang">Manajemen Barang</string>
+    <string name="menu_stok_masuk">Stok Masuk</string>
+    <string name="menu_stok_keluar">Stok Keluar</string>
+    <string name="menu_monitoring">Monitoring Stok</string>
+    
+    <!-- Barang -->
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="edit_barang">Edit Barang</string>
+    <string name="detail_barang">Detail Barang</string>
+    <string name="hapus_barang">Hapus Barang</string>
+    <string name="hint_nama_barang">Nama Barang</string>
+    <string name="hint_kategori">Kategori</string>
+    <string name="hint_jumlah_stok">Jumlah Stok</string>
+    <string name="hint_tanggal_produksi">Tanggal Produksi</string>
+    <string name="hint_tanggal_expired">Tanggal Expired</string>
+    <string name="hint_deskripsi">Deskripsi</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_batal">Batal</string>
+    
+    <!-- Stok -->
+    <string name="stok_masuk">Stok Masuk</string>
+    <string name="stok_keluar">Stok Keluar</string>
+    <string name="pilih_barang">Pilih Barang</string>
+    <string name="hint_jumlah">Jumlah</string>
+    <string name="hint_tanggal">Tanggal</string>
+    <string name="hint_keterangan">Keterangan</string>
+    
+    <!-- Monitoring -->
+    <string name="monitoring_stok">Monitoring Stok</string>
+    <string name="filter_semua">Semua</string>
+    <string name="filter_stok_menipis">Stok Menipis</string>
+    <string name="filter_mendekati_expired">Mendekati Expired</string>
+    
+    <!-- Kategori -->
+    <string name="kategori_elektronik">Elektronik</string>
+    <string name="kategori_makanan">Makanan</string>
+    <string name="kategori_minuman">Minuman</string>
+    <string name="kategori_pakaian">Pakaian</string>
+    <string name="kategori_alat_tulis">Alat Tulis</string>
+    <string name="kategori_lainnya">Lainnya</string>
+    
+    <!-- Dialog -->
+    <string name="dialog_hapus_title">Konfirmasi Hapus</string>
+    <string name="dialog_hapus_message">Apakah Anda yakin ingin menghapus barang ini?</string>
+    <string name="dialog_ya">Ya</string>
+    <string name="dialog_tidak">Tidak</string>
+    
+    <!-- Messages -->
+    <string name="msg_login_sukses">Login berhasil!</string>
+    <string name="msg_login_gagal">Username atau password salah</string>
+    <string name="msg_register_sukses">Pendaftaran berhasil!</string>
+    <string name="msg_register_gagal">Pendaftaran gagal</string>
+    <string name="msg_simpan_sukses">Data berhasil disimpan</string>
+    <string name="msg_update_sukses">Data berhasil diupdate</string>
+    <string name="msg_hapus_sukses">Data berhasil dihapus</string>
+    <string name="msg_stok_tidak_cukup">Stok tidak mencukupi</string>
+    <string name="msg_field_required">Field ini wajib diisi</string>
+    <string name="msg_password_mismatch">Password tidak cocok</string>
+    
+    <!-- SDG 9 -->
+    <string name="sdg_title">SDG 9: Industry, Innovation and Infrastructure</string>
+    <string name="sdg_description">Aplikasi ini mendukung digitalisasi UMKM Indonesia dalam mengelola gudang secara efisien dan modern.</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923445855312",
+    "project_id": "miman-8c35f",
+    "storage_bucket": "miman-8c35f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923445855312:android:7b4ddc69ca434d46147d55",
+        "android_client_info": {
+          "package_name": "com.example.gudangumkm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdB4rdDcZAAM6cqzkuJ1UQmzvKSuue3w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

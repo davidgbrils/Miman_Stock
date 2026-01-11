@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Modern Teal/Cyan (lighter for dark mode) -->
+    <color name="primary">#4DB6AC</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="primary_light">#80CBC4</color>
+    <color name="primary_variant">#26A69A</color>
+    
+    <!-- Secondary Colors - Warm Orange Accent -->
+    <color name="secondary">#FFA040</color>
+    <color name="secondary_dark">#FF6F00</color>
+    <color name="secondary_light">#FFCC80</color>
+    
+    <!-- Surface & Background - Dark Mode -->
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2D2D2D</color>
+    
+    <!-- Text Colors - Light text for dark mode -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#6B6B6B</color>
+    <color name="text_on_primary">#000000</color>
+    <color name="text_on_secondary">#000000</color>
+    
+    <!-- Input Field Text Color -->
+    <color name="input_text">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4ADE80</color>
+    <color name="warning">#FCD34D</color>
+    <color name="error">#F87171</color>
+    <color name="info">#60A5FA</color>
+    
+    <!-- Stock Status Colors -->
+    <color name="stock_low">#F87171</color>
+    <color name="stock_medium">#FCD34D</color>
+    <color name="stock_good">#4ADE80</color>
+    
+    <!-- Card Colors - Darker variants -->
+    <color name="card_barang">#1A3D3A</color>
+    <color name="card_stok_masuk">#1A2A3D</color>
+    <color name="card_stok_keluar">#3D2A1A</color>
+    <color name="card_monitoring">#2D1A3D</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#00695C</color>
+    <color name="gradient_end">#004D40</color>
+    <color name="gradient_splash_start">#00695C</color>
+    <color name="gradient_splash_end">#00897B</color>
+    
+    <!-- Bottom Nav Colors -->
+    <color name="bottom_nav_active">#4DB6AC</color>
+    <color name="bottom_nav_inactive">#6B6B6B</color>
+    
+    <!-- Divider -->
+    <color name="divider">#333333</color>
+    
+    <!-- Standard Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Ripple -->
+    <color name="ripple_color">#334DB6AC</color>
+</resources>
