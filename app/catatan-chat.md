@@ -1,3 +1,7 @@
+Gemini Note:
+https://gemini.google.com/share/90a80b4fcf6f
+
+
 User: baca dan pahami keseluruhan file saya baik dari versinya dan juga kegunaannya secara penuh
 
 GitHub Copilot: Read [](file:///c%3A/Users/LENOVO/Documents/TUGAS/SEMESTER%205/PEMOGRAMAN%20MOBILE/MiMan/New_GudangUMKM/GudangUMKM/build.gradle.kts)
